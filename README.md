@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yashwanth0310
+- 👋 Hi, I’m Yashwanth
 - 👀 I’m interested in Flutter, Android and Artificial Intelligence
 - 🌱 I’m currently learning B.Sc Computer Technology
 - 💞️ I’m looking to collaborate on Android and Flutter
